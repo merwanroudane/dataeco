@@ -1,1 +1,1 @@
-# dataeco
+This Streamlit app, titled "Economic Data Properties Guide," is an interactive web application designed to help researchers and practitioners explore key economic data properties. It covers various data types—time series, panel, and cross-sectional—and provides definitions, examples, and visualizations to illustrate complex economic concepts. The guide is enhanced with dynamic plots and intuitive navigation, making it a practical tool for understanding data challenges and appropriate analytical techniques
